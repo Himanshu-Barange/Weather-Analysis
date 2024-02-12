@@ -1,6 +1,14 @@
 # Weather-Analysis
 
-This is my Capstone PowerBI project.
+This repository contains the code and data for a weather trends analysis conducted for the period 2012-2017. The analysis focuses on examining weather patterns in cities across the USA, Canada, and Israel.
+
+The analysis explores various aspects of weather trends, including but not limited to:
+
+Temperature variations over the years
+Seasonal patterns in different regions
+Precipitation trends
+Comparative analysis between countries
+
 
 The description and work plan of this analysis can be read at the following google doc link.
 
