@@ -4,10 +4,10 @@ This repository contains the code and data for a weather trends analysis conduct
 
 The analysis explores various aspects of weather trends, including but not limited to:
 
-Temperature variations over the years
-Seasonal patterns in different regions
-Precipitation trends
-Comparative analysis between countries
+- Temperature variations over the years
+- Seasonal patterns in different regions
+- Precipitation trends
+- Comparative analysis between countries
 
 
 The description and work plan of this analysis can be read at the following google doc link.
